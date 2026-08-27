@@ -1,0 +1,3 @@
+steps 1) Child as it no change anything
+steps 2) in prod or dev add same variable as refrence by child  in variable and tfvars etc..
+steps3) add variable=var.variable in module code
